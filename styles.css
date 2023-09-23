@@ -1,0 +1,23 @@
+/* element followed property change 
+
+element {
+    Property: change that will be made; 
+*/
+
+    
+body{
+    background-color: darkgreen;
+    color: red;
+    width: 50%;
+    border: 1px solid black;
+ }
+
+ a{
+    color: azure;
+    text-decoration: double;
+
+ }
+ header{
+    color: brown;
+    font-size: larger;
+ }
