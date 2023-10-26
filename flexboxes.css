@@ -1,0 +1,20 @@
+body{
+    background-color:gold;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    height: 500px;
+}
+body div{
+     background-color: crimson;
+    width: 20%;
+    height: 20%;
+    text-align: center;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+
+
+ 

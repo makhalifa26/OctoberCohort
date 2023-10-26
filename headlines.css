@@ -1,0 +1,56 @@
+body{
+    width: 80%;
+    margin: auto;
+    padding: 10px; 
+}
+Ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    padding: 0;
+    margin: 0;
+    
+}
+header nav ul li{
+    padding: 10px 15px
+    
+    
+}
+header nav ul li a{
+    text-decoration: none;
+    color: black;
+    
+}
+header nav ul li a :hover{
+    border-bottom: 1px solid black;
+}
+span{
+    color:orange
+}
+
+#top {
+    text-align: center;
+    background-color: grey;
+    padding: 20px;
+    color: white;
+    
+}
+main{
+    background-color: orange;
+}
+
+.flex-container{
+    display: flex;
+    padding: 10px; 
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width:70%;
+    margin: auto;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+
